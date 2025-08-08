@@ -129,3 +129,5 @@ const FormScreen = ({ navigation, route }) => {
     </SafeAreaView>
   );
 };
+
+export default {FormScreen};
