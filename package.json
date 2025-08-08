@@ -1,0 +1,30 @@
+{
+  "name": "rnsdktest",
+  "version": "1.0.0",
+  "description": "A React Native SDK with multiple screens and callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratikmontra/rnsdk.git"
+  },
+  "keywords": ["react-native", "sdk", "mobile"],
+  "author": "Pratikmontra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pratikmontra/rnsdk/issues"
+  },
+  "homepage": "https://github.com/Pratikmontra/rnsdk#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "@react-navigation/native": "^6.0.0",
+    "@react-navigation/stack": "^6.0.0"
+  },
+  "dependencies": {
+    "react-native-screens": "^3.20.0",
+    "react-native-safe-area-context": "^4.5.0"
+  }
+}
